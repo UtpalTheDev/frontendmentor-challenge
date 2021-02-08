@@ -143,9 +143,11 @@ color:rgb(121, 121, 121);
     }
     .firstImg{
         bottom:50%;
+        right:45%;
     }
     .lastImg{
-        top:50%;
+        top:45%;
+        left:45%
     }
 
 }
