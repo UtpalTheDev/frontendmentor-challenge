@@ -139,6 +139,13 @@ color:rgb(121, 121, 121);
     .card{
         right:0;
         left:13%;
+        bottom:20%;
+    }
+    .firstImg{
+        bottom:30%;
+    }
+    .lastImg{
+        top:50%;
     }
 
 }
